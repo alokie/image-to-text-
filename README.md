@@ -9,6 +9,7 @@
   -> intall pytesseract in your system 
 
 2. after that get into the directory and run the python program
+   </br>
 
 
 
